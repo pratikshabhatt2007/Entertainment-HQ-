@@ -1,0 +1,11 @@
+Error fetching events: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: AggregateError:  (EACCES)\n' +
+    'AggregateError [EACCES]: \n' +
+    '    at internalConnectMultiple (node:net:1194:18)\n' +
+    '    at afterConnectMultiple (node:net:1784:7)',
+  hint: '',
+  code: ''
+}
